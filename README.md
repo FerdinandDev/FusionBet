@@ -1,6 +1,6 @@
 # FusionBet
 
-A sports dashboard frontend, built as a portfolio project.
+A sports betting frontend website, built as a portfolio project.
 
 **This is a UI demo. It is not a gambling product.** There are no accounts, no deposits, no
 withdrawals, and no wagering. Every odd, score and statistic is mock data, and the "place bet"
