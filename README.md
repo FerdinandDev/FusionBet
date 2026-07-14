@@ -10,6 +10,8 @@ the design.
 
 ---
 
+## site is live at https://ferdinanddev.github.io/FusionBet/
+
 ## Stack
 
 React · Vite · React Router · Tailwind CSS · Framer Motion · Recharts · Axios · Context API · localStorage
