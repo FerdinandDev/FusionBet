@@ -10,7 +10,7 @@ the design.
 
 ---
 
-## site is live at https://ferdinanddev.github.io/FusionBet/
+## site is live  https://ferdinanddev.github.io/FusionBet/
 
 ## Stack
 
