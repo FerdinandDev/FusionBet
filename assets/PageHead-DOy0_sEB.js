@@ -1,0 +1,1 @@
+import{u as n,j as s}from"./index-BPU6vgvk.js";function c({title:e,subtitle:t}){const{c:a}=n();return s.jsxs("div",{children:[s.jsx("h1",{className:"text-3xl font-black tracking-tight md:text-4xl",style:{fontFamily:"Poppins, sans-serif"},children:e}),t&&s.jsx("p",{className:"mt-1 text-sm",style:{color:a.muted},children:t})]})}export{c as P};
