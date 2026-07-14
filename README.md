@@ -9,8 +9,8 @@ page rather than buried in a footer, because in a regulated vertical the disclos
 the design.
 
 ---
-
-## site is live  https://ferdinanddev.github.io/FusionBet/
+## 🚀 Live Demo
+[View live site](https://ferdinanddev.github.io/FusionBet/)
 
 ## Stack
 
