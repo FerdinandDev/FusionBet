@@ -1,0 +1,1 @@
+import{j as e}from"./index-CVL2TS1c.js";function t({children:r,hue:o,subtle:n}){return e.jsx("span",{className:"inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold",style:{background:n?`${o}1F`:o,color:n?o:"#fff",border:n?`1px solid ${o}55`:"none"},children:r})}export{t as B};
